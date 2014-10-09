@@ -1,0 +1,6 @@
+D:\demo\WpfDemo\WpfDemo.CellGen\bin\Debug\WpfDemo.CellGen.pdb
+D:\demo\WpfDemo\WpfDemo.CellGen\obj\Debug\WpfDemo.CellGen.csprojResolveAssemblyReference.cache
+D:\demo\WpfDemo\WpfDemo.CellGen\obj\Debug\WpfDemo.CellGen.pdb
+D:\demo\WpfDemo\WpfDemo.CellGen\bin\Debug\WpfDemo.CellGen.dll.config
+D:\demo\WpfDemo\WpfDemo.CellGen\bin\Debug\WpfDemo.CellGen.dll
+D:\demo\WpfDemo\WpfDemo.CellGen\obj\Debug\WpfDemo.CellGen.dll

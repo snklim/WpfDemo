@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo.MainForm", "WpfDemo.MainForm\WpfDemo.MainForm.csproj", "{CE30BED4-A594-4EAC-BCF0-708B83114240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo.CellGen", "WpfDemo.CellGen\WpfDemo.CellGen.csproj", "{0FE3F53C-82E0-46DA-8ED2-47002A089F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo.Downloader", "WpfDemo.Downloader\WpfDemo.Downloader.csproj", "{62C75774-5012-40E2-92F3-B5462F39862A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE30BED4-A594-4EAC-BCF0-708B83114240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE30BED4-A594-4EAC-BCF0-708B83114240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE30BED4-A594-4EAC-BCF0-708B83114240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE30BED4-A594-4EAC-BCF0-708B83114240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE3F53C-82E0-46DA-8ED2-47002A089F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE3F53C-82E0-46DA-8ED2-47002A089F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE3F53C-82E0-46DA-8ED2-47002A089F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE3F53C-82E0-46DA-8ED2-47002A089F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C75774-5012-40E2-92F3-B5462F39862A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C75774-5012-40E2-92F3-B5462F39862A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C75774-5012-40E2-92F3-B5462F39862A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C75774-5012-40E2-92F3-B5462F39862A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

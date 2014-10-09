@@ -1,0 +1,16 @@
+D:\demo\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.exe.config
+D:\demo\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.exe
+D:\demo\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.pdb
+D:\demo\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.CellGen.dll
+D:\demo\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.CellGen.pdb
+D:\demo\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.csprojResolveAssemblyReference.cache
+D:\demo\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.exe
+D:\demo\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.pdb
+C:\work\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.exe.config
+C:\work\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.exe
+C:\work\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.pdb
+C:\work\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.exe
+C:\work\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.Downloader.pdb
+C:\work\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.CellGen.dll
+C:\work\WpfDemo\WpfDemo.Downloader\bin\Debug\WpfDemo.CellGen.pdb
+C:\work\WpfDemo\WpfDemo.Downloader\obj\Debug\WpfDemo.Downloader.csprojResolveAssemblyReference.cache
